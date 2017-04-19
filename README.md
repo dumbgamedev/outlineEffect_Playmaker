@@ -34,7 +34,7 @@ This project can be downloaded in full for free from : https://github.com/dumbga
 
 ## Tutorial
 
-A basic tutorial of how to use these actions can be found here: https://youtu.be/JGUTS1kZYmo
+A basic tutorial of how to use these actions can be found here: https://www.youtube.com/watch?v=0nLzMHOtc4E&feature=youtu.be
 
 Note, this asset does not work for VR.
 
